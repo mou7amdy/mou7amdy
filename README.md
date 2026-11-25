@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Mouhamdy 👋
 
-<!--
-**mou7amdy/mou7amdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at **IPSAS** (Sfax, Tunisia), on my way to becoming a **penetration tester**.
 
-Here are some ideas to get you started:
+### 🎯 Current path
+- ✅ Linux fundamentals — OverTheWire Bandit (levels 0–23)
+- 🔄 Python for security — building small defensive tools
+- ⏭️ Next: Networking → Web application security → eJPT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Learning
+Python · Bash · Linux · Git
+
+### 🌍 Languages
+Arabic · French · English
+
+---
+*All security tools in my repositories are for learning, and for use only on systems I own or am authorized to test.*
